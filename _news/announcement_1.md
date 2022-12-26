@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-06-01 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+For the next 3 years I will be coordinating the project EU Horizon Project HumanTech
