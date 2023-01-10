@@ -4,3 +4,45 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"CVPR":
+  color: "#5537da"
+
+"CVPR-W":
+  color: "#3574b4"
+
+"BMVC":
+  color: "#df702d"
+
+"ECCV":
+  color: "#2f2fd9"
+
+"ICCV":
+  color: "#e74735"
+
+"WACV":
+  color: "#cfd43d"
+
+"ISMAR":
+  color: "#9291a4"
+
+"ICRA":
+  color: "#abd43d"
+
+"Sensors":
+  color: "#1f8b2b"
+
+"Imaging":
+  color: "#1f8b2b"
+
+"Computers":
+  color: "#1f8b2b"
+
+"ISPRS":
+  color: "#1f8b2b"
+
+"ICIP":
+  color: "#30dc43"
+
+"ICPR":
+  color: "#dc30d4"
