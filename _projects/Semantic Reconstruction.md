@@ -2,7 +2,7 @@
 layout: page
 title: Semantic Reconstruction
 description: 3D Semantic and Geometric scene understanding
-img: assets/img/12.jpg
+img: assets/img/plane.png
 importance: 2
 category: work
 ---

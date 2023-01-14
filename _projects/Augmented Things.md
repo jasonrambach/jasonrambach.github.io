@@ -2,7 +2,7 @@
 layout: page
 title: Augmented Things
 description: A robust model-based tracker for AR
-img: assets/img/12.jpg
+img: assets/img/aug.png
 importance: 2
 category: work
 ---

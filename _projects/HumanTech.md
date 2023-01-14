@@ -2,7 +2,7 @@
 layout: page
 title: HumanTech
 description: Human-centered technologies for a safer and greener construction industry
-img: assets/img/12.jpg
+img: assets/img/ht.png
 importance: 1
 category: work
 ---
