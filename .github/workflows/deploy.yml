@@ -16,10 +16,10 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-    - name: Fix permission
-      run: |
-      chmod a+x bin/*
-      git commit -am "add execute permission to bin/deploy"
+    #- name: Fix permission
+    #  run: |
+    #  chmod a+x bin/*
+    #  git commit -am "add execute permission to bin/deploy"
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
