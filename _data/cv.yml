@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 14th April 1988
     - name: Languages
-      value: English, German, Greek , Spanish
+      value: English, German, Greek
 
 - title: Education
   type: time_table
