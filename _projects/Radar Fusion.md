@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-Radar sensors have significant potential for several applications due to their low-cost and robustness to weather conditions.
+Radar sensors have a significant potential for several applications due to their low-cost and robustness to weather conditions.
 However, their use in 3D-detection work is challenging due to the sparsity of 3D information compared to Lidar.
 
 In our 2022 WACV paper <a href="https://openaccess.thecvf.com/content/WACV2022/papers/Stacker_Fusion_Point_Pruning_for_Optimized_2D_Object_Detection_With_Radar-Camera_WACV_2022_paper.pdf?ref=https://githubhelp.com"> "Fusion Point Pruning for Optimized 2D Object Detection </a>
