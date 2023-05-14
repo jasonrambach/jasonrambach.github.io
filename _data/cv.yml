@@ -61,9 +61,15 @@
 - title: Reviewer
   type: list
   contents:
-    - CVPR, ECCV, ICRA, WACV, BMVC, ISMAR, VR (conferences)
+    - CVPR, ICCV, ECCV, ICRA, WACV, BMVC, ISMAR, VR (conferences)
     - IEEE TVCG, IEEE Trans. Neural Netw. Learn. Syst., MDPI Sensors, MDPI Imaging (journals)
 
+- title: Workshops
+  type: list
+  contents:
+    - Organizer, AI and Robotics in Construction, European Robotics Forum, ERF 2023
+    - Oeganizer, Human Factors in Construction Robotics session, IEEE ARSO 2023
+    
 - title: Other Roles
   type: list
   contents:
