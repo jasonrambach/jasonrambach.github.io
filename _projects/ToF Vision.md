@@ -13,6 +13,8 @@ In VIZTA, we focused on two main application areas. In-car cabin and smart build
 
 <iframe width="728" height="410" src="https://www.youtube.com/embed/ItCj0K99hlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br />
+<iframe width="728" height="410" src="https://www.youtube.com/embed/7fwy6Jq1VzQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br />
 <br />
 
 We released two publically available datasets annotated ToF datasets, TICaM and TiMo, both available for download at <a href="https://vizta-tof.kl.dfki.de/">https://vizta-tof.kl.dfki.de/ </a>
