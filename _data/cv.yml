@@ -41,6 +41,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - 3rd place in Scan2BIM Challenge @CVPR 2023 CV4AEC workshop (<a href="https://cv4aec.github.io/#challenge"> https://cv4aec.github.io/#challenge </a>)
     - year: 2022
       items:
         - BOP Challenge @ECCV 2022, 1st place in categories Overall Best Segmentation Method, Best BlenderProc-trained method (<a href="https://bop.felk.cvut.cz/challenges/"> https://bop.felk.cvut.cz/challenges/ </a>)
@@ -68,8 +71,8 @@
   type: list
   contents:
     - Organizer, AI and Robotics in Construction, European Robotics Forum, ERF 2023
-    - Oeganizer, Human Factors in Construction Robotics session, IEEE ARSO 2023
-    
+    - Organizer, Human Factors in Construction Robotics session, IEEE ARSO 2023
+
 - title: Other Roles
   type: list
   contents:

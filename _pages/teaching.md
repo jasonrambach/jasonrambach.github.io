@@ -15,4 +15,4 @@ Researcher positions at DFKI can be applied to through the DFKI website.
 
 Current open positions at team SSMP are:
 
-<a href="https://jobs.dfki.de/en/vacancy/senior-researcher-m-f-d-523278.html"> (Senior) Researcher (m/f/d) in Computer Vision/Machine Learning for automated waste sorting and recycling
+-
