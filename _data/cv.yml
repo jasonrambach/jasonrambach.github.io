@@ -43,7 +43,7 @@
   contents:
     - year: 2023
       items:
-        - BOP Challenge @ICCV 2023, 1st place in categories Overall Best RGB Method, Overall Best Segmentation method, Best BlenderProc-trained Segmentation method (<a href="https://cmp.felk.cvut.cz/sixd/workshop_2023/slides/bop_challenge_2023_results.pdf"> https://cmp.felk.cvut.cz/sixd/workshop_2023/slides/bop_challenge_2023_results.pdf </a>)
+        - BOP Challenge @ICCV 2023, 1st place in categories Overall Best RGB Method, Overall Best Segmentation method, Best BlenderProc-trained Segmentation method
         - 3rd place in Scan2BIM Challenge @CVPR 2023 CV4AEC workshop (<a href="https://cv4aec.github.io/#challenge"> https://cv4aec.github.io/#challenge </a>)
     - year: 2022
       items:
