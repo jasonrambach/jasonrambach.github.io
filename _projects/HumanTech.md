@@ -10,6 +10,8 @@ category: work
 I am the coordinator of the EU Horizon project HumanTech.
 Using dynamic digital twins of the construction site as our reference we develop wearable and robotic technologies that contribute towards a safer and greener construction industry.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zV3gUrISKW4?si=hh5c25S1RELaquNa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 More information and latest news from the project can be found on the <a href="https://humantech-horizon.eu/"> HumanTech Website</a>
 
 
