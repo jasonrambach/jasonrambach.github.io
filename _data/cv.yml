@@ -44,6 +44,7 @@
     - year: 2024
       items:
         - Best industrial paper award @ICPRAM 2024 for "CaRaCTO Robust Camera-Radar Extrinsic Calibration with Triple Constraint Optimization"
+        - 3rd place in Scan2BIM Challenge @CVPR 2024 CV4AEC workshop
     - year: 2023
       items:
         - BOP Challenge @ICCV 2023, 1st place in categories Overall Best RGB Method, Overall Best Segmentation method, Best BlenderProc-trained Segmentation method
@@ -70,7 +71,7 @@
   type: list
   contents:
     - CVPR, ICCV, ECCV, ICRA, WACV, BMVC, ISMAR, VR (conferences)
-    - IEEE TVCG, IEEE TNNLS, MDPI Sensors, MDPI Imaging (journals)
+    - IEEE TPAMI, IEEE TIP, IEEE TVCG, IEEE TNNLS (journals)
 
 - title: Workshops
   type: list
@@ -87,6 +88,10 @@
 - title: Invited Talks
   type: time_table
   contents:
+    - year: 2024
+      items:
+      - <u>Model-to-reality alignment using Vision-AI for industrial quality control </u> @ PLM Conference 2024 (Invited talk)
+      - <u>Building Virtual Worlds with 3D Sensing and AI </u> @ NEM Summit 2024 (Invited talk)
     - year: 2023
       items:
       - <u>Meaningful AR/XR through AI Perception </u> @ IGIC 2023 Conference (Invited talk)
