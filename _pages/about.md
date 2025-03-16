@@ -17,6 +17,11 @@ profile:
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit:  # leave blank to include all the news in the `_news` folder
 ---
 
 Jason Rambach received his PhD in Computer Science in 2020 from the University of Kaiserslautern for his dissertation entitled “Learning Priors for Augmented Reality Tracking and Scene Understanding”. He has been at DFKI Augmented Vision in Kaiserslautern since 2015. Currently, he is a Senior Researcher leading the team “Spatial Sensing and Machine Perception” of approx. 12 researchers working on depth sensing and Geometric/Semantic scene understanding using Machine Learning.
