@@ -13,7 +13,7 @@ Semantic reconstruction aims at understanding a scene both at the geometric and 
 <a href="https://arxiv.org/pdf/2110.11219.pdf">PlaneRecNet </a> (BMVC 2021) estimates planes and depth from a single image with cross-consistency constraints.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/PlaneREcNet.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/PlaneREcNet.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
