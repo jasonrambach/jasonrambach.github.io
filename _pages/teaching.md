@@ -1,18 +1,12 @@
 ---
 layout: page
-permalink: /SSMP careers/
-title: SSMP careers
-description: Open positions at DFKI Augmented Vision, Team Spatial Sensing and Machine Perception
+permalink: /teaching/
+title: teaching
+description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
-We are always looking for talented researchers and students to work with us on a variety of exciting topics!
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-If you have interest in working with us on a scholarship, internship, bachelor/master thesis, I am happy to receive your email including your cv, motivation and transcripts.
-
-Researcher positions at DFKI can be applied to through the DFKI website.
-
-Current open positions at team SSMP are:
-
--
+Organize your courses by years, topics, or universities, however you like!
