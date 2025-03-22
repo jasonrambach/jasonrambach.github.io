@@ -70,7 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-
+### Thse are actually not used - need to set them in socials.yml
 github_username: jasonrambach
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
