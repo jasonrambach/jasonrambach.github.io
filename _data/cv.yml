@@ -25,7 +25,7 @@
   contents:
     - title: Senior Researcher, Team Leader Spatial Sensing and Machine Perception
       institution: German Research Center for Artificial Intelligence, Kaiserslautern, Germany
-      year: 2020-2024
+      year: 2020-2025
 
     - title: Researcher, Augmented Vision Department
       institution: German Research Center for Artificial Intelligence, Kaiserslautern, Germany
@@ -76,7 +76,8 @@
 - title: Workshops
   type: list
   contents:
-    - Organizer, AI and Robotics in Construction, European Robotics Forum, ERF 2023, ERF 2024
+    - Organizer, AI and Robotics in Construction, European Robotics Forum, ERF 2023, ERF 2024, ERF 2025
+    - Organizer, SPADE Workshop, Intelligent Vehicles Symposium, IEEE IV 2025
     - Organizer, Human Factors in Construction Robotics session, IEEE ARSO 2023
 
 - title: Other Roles
@@ -116,6 +117,7 @@
         - Synthetic to Real Domain Adaptation
     - title: Scene Understanding
       items:
+        - Open-vocabulary methods
         - Detection and Segmentation
         - 3D Semantic Reconstruction
         - Anomaly detection
