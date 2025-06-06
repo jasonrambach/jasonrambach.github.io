@@ -41,6 +41,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - CVPR 2025 Outstanding Reviewer Award
     - year: 2024
       items:
         - Best industrial paper award @ICPRAM 2024 for "CaRaCTO Robust Camera-Radar Extrinsic Calibration with Triple Constraint Optimization"
