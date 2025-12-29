@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Object Pose
-description: 6DoF Object Pose and State Estimation
+description: 6DoF Object Pose Estimation
 img: assets/img/pose.png
 importance: 1
 category: work

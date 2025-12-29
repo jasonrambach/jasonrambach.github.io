@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Radar Fusion
-description: Fusion of Radar with other modalities for automotive scene understanding
+title: automotive Perception
+description: Fusion of Radar, Lidar and Camera for automotive scene understanding
 img: assets/img/radar.png
 importance: 1
 category: work
