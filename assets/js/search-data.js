@@ -163,7 +163,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/HumanTech/";
             },},{id: "projects-automotive-perception",
-          title: 'automotive Perception',
+          title: 'Automotive Perception',
           description: "Fusion of Radar, Lidar and Camera for automotive scene understanding",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Radar%20Fusion/";
