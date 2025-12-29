@@ -177,6 +177,11 @@ ninja.data = [{
           description: "Perception based only on time-of-flight cameras",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ToF%20Vision/";
+            },},{id: "projects-waste-monitoring",
+          title: 'Waste Monitoring',
+          description: "Vision for understanding of waste streams",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Waste%20Monitoring/";
             },},{
         id: 'social-dblp',
         title: 'DBLP',
