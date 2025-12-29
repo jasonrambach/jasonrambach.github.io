@@ -3,7 +3,7 @@ layout: page
 title: ToF Vision
 description: Perception based only on time-of-flight cameras
 img: assets/img/TOF.png
-importance: 1
+importance: 2
 category: work
 ---
 
