@@ -149,7 +149,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-object-pose",
           title: 'Object Pose',
-          description: "6DoF Object Pose and State Estimation",
+          description: "6DoF Object Pose Estimation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6DoF%20object%20pose%20and%20state/";
             },},{id: "projects-augmented-things",
@@ -157,19 +157,19 @@ ninja.data = [{
           description: "A robust model-based tracker for AR",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Augmented%20Things/";
-            },},{id: "projects-humantech",
-          title: 'HumanTech',
-          description: "Human-centered technologies for a safer and greener construction industry",
+            },},{id: "projects-built-environment",
+          title: 'Built Environment',
+          description: "Scene understanding, Modeling and Robotics for Construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HumanTech/";
-            },},{id: "projects-radar-fusion",
-          title: 'Radar Fusion',
-          description: "Fusion of Radar with other modalities for automotive scene understanding",
+            },},{id: "projects-automotive-perception",
+          title: 'automotive Perception',
+          description: "Fusion of Radar, Lidar and Camera for automotive scene understanding",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Radar%20Fusion/";
-            },},{id: "projects-semantic-reconstruction",
-          title: 'Semantic Reconstruction',
-          description: "3D Semantic and Geometric scene understanding",
+            },},{id: "projects-3d-scene-semantics",
+          title: '3D Scene Semantics',
+          description: "3D Semantic and Geometric scene understanding and reasoning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Semantic%20Reconstruction/";
             },},{id: "projects-tof-vision",
