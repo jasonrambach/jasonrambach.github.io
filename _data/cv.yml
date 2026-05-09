@@ -73,7 +73,7 @@
 - title: Reviewer
   type: list
   contents:
-    - CVPR, ICCV, ECCV, ICML, ICRA, IROS, WACV, BMVC, ISMAR, VR (conferences)
+    - CVPR, ICCV, ECCV, ICML, NEURIPS, ICRA, IROS, WACV, BMVC, ISMAR, VR (conferences)
     - IEEE TPAMI, IEEE TIP, IEEE TVCG, IEEE TNNLS (journals)
 
 - title: Workshops
@@ -87,6 +87,7 @@
   type: list
   contents:
     - Head of DFKI Competence Center <a href="https://dfki.de/en/web/applications-industry/competence-centers/ai-in-construction"> AI in Construction (AIC)</a>
+    - Member of European Laboratory for Learning and Intelligent Sytems <a href= "https://ellis.eu/person/jason-rambach"> ELLIS</a>
     - Consortium Coordinator of EU Horizon Project <a href="https://humantech-horizon.eu/"> HumanTech </a>
     - euRobotics <a href="https://eu-robotics.net/construction-robotics-topic-group/"> topic group Construction coordinator </a>
     - Member of executive board, Excellence center simulation and software based innovation Kaiserslautern - R&D Lab Digital Twins (<a href="https://www.leistungszentrum-simulation-software.de/"> https://www.leistungszentrum-simulation-software.de/ </a>)
