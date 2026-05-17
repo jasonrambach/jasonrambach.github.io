@@ -168,6 +168,9 @@ ninja.data = [{
           section: "News",},{id: "news-published-our-scan-to-bim-method-and-dataset-at-ec3",
           title: 'Published our Scan-to-BIM  Method and  Dataset at EC3.',
           description: "",
+          section: "News",},{id: "news-i-have-received-the-cvpr-2026-outstanding-reviewer-award",
+          title: 'I have received the CVPR 2026  Outstanding Reviewer award',
+          description: "",
           section: "News",},{id: "projects-object-pose",
           title: 'Object Pose',
           description: "6DoF Object Pose Estimation",
@@ -222,7 +225,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/dr-jason-rambach-03a9b258", "_blank");
+          window.open("https://www.linkedin.com/in/jason-rambach-03a9b258", "_blank");
         },
       },{
         id: 'social-researchgate',
